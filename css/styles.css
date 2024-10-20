@@ -1,0 +1,10 @@
+body {
+  background-color: blanchedalmond;
+  text-align: center;
+}
+
+a {
+  color: green;
+  display: flex;
+  justify-content: center;
+}
